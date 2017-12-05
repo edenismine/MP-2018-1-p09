@@ -12,7 +12,8 @@ En México, el Instituto Nacional de Estadística y Geografía (INEGI) se encarg
 >
 > -   Si la forma de vida de un individuo se enfoca sólo a capitalizar una redistribución de ingresos o de bienes por la vía de la mera transferencia a través de distintos mecanismos (limpiar parabrisas, pedir limosna), se considera que no realiza una actividad económica. Por definición, un servicio no es solicitado, significa que no es objeto de demanda por parte de la sociedad, y al no participar de una auténtica transacción, el prestador queda fuera del ámbito de la ocupación, pese a que él considere que lo que hace es un trabajo (técnicamente la persona participa de una transferencia unilateral en su beneficio mediada por un acto simbólico o un protocolo de comunicación con el donante, rasgo que es lo único que distingue al acto de un robo o un asalto). En la ENEU-ENE no existía esta distinción, así que se dejaba en manos del declarante su clasificación como ocupado o no ocupado.
 >
-> A continuación, se muestra una gráfica que toma el promedio anual de la población desocupada nacional (serie unificada con criterios de la ENOE) para los años 2007 a 2017, promedio obtenido usando los reportes trimestrales publicados por el INEGI.
+
+A continuación, se muestra una gráfica que toma el promedio anual de la población desocupada nacional (serie unificada con criterios de la ENOE) para los años 2007 a 2017, promedio obtenido usando los reportes trimestrales publicados por el INEGI.
 
 <img src="media/fig01.png" width="404" height="288" />
 
