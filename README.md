@@ -12,42 +12,41 @@ En México, el Instituto Nacional de Estadística y Geografía (INEGI) se encarg
 >
 > -   Si la forma de vida de un individuo se enfoca sólo a capitalizar una redistribución de ingresos o de bienes por la vía de la mera transferencia a través de distintos mecanismos (limpiar parabrisas, pedir limosna), se considera que no realiza una actividad económica. Por definición, un servicio no es solicitado, significa que no es objeto de demanda por parte de la sociedad, y al no participar de una auténtica transacción, el prestador queda fuera del ámbito de la ocupación, pese a que él considere que lo que hace es un trabajo (técnicamente la persona participa de una transferencia unilateral en su beneficio mediada por un acto simbólico o un protocolo de comunicación con el donante, rasgo que es lo único que distingue al acto de un robo o un asalto). En la ENEU-ENE no existía esta distinción, así que se dejaba en manos del declarante su clasificación como ocupado o no ocupado.
 >
-
 A continuación, se muestra una gráfica que toma el promedio anual de la población desocupada nacional (serie unificada con criterios de la ENOE) para los años 2007 a 2017, promedio obtenido usando los reportes trimestrales publicados por el INEGI.
 
-<img src="media/fig01.png" width="404" height="288" />
+<img src="media/fig01.png" width="404" height="288" /> 
 
 Languages of the World
 ----------------------
 
 Next, using bab.la’s “Languages of the World” map, we graphed the predominance of languages by region:
 
-<img src="media/fig02.png" width="624" height="427" />
+<img src="media/fig02.png" width="624" height="427" /> 
 
 And then, we graphed the global predominance of languages across the world using data from the 2007 edition of the Nationalencyklopedin:
 
-<img src="media/fig03.png" width="624" height="373" />
+<img src="media/fig03.png" width="624" height="373" /> 
 
 Polar coordinates
 -----------------
 
 We graphed the functions *r* = cos(3*θ*) and *r* = ((2*θ*)−1)<sup>6</sup> using polar coordinates.
 
-<img src="media/fig04.png" width="624" height="328" />
+<img src="media/fig04.png" width="624" height="328" /> 
 
 Solids of revolution
 --------------------
 
-We graphed a paraboloid of revolution from the paraboloid family, using the following parametric equation: $P = \\left\\{ \\tilde{x} \\in \\left. \\ \\mathbb{R}^{3};u,v \\in \\mathbb{R} \\right|\\hat{x} = \\left( \\sqrt{u}\\cos\\left( v \\right),\\sqrt{u}\\sin\\left( v \\right),u \\right);\\ u \\geq 0;v \\in \\lbrack 0,2\\pi) \\right\\}$
+We graphed a paraboloid of revolution from the paraboloid family, using the following parametric equation: ![](media/equ1.png)
 
-<img src="media/fig05.png" width="432" height="288" />
+<img src="media/fig05.png" width="432" height="288" /> 
 
 Heartrate monitor animation
 ---------------------------
 
 Lastly, we used the following function *f*(*x*) = exp(−20(mod(*x*+1,2,−1)<sup>2</sup>) sin(20mod(*x*+1,2)−1) to model heartbeats.
 
-<img src="media/fig06.png" width="600" height="337" />
+<img src="media/fig06.png" width="600" height="337" /> 
 
 File tree
 ---------
