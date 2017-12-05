@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""First Exercise: Graph Time vs The unemployed population in
-    Mexico from 2007 to 2017"""
+"""First Exercise: Graph Time vs The unemployed population in Mexico from
+2007 to 2017"""
 import csv
 import os
 from functools import reduce
@@ -9,7 +9,7 @@ from math import floor
 
 import matplotlib.pyplot as plt
 
-from .exporter import export
+from .export import export
 
 __author__ = "Luis Daniel Aragon Bermudez 416041271"
 __credits__ = ["Luis Daniel Aragon Bermudez"]

@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import mpl_toolkits.mplot3d.axes3d
 
-from .exporter import export
+from .export import export
 
 __author__ = "Luis Daniel Aragon Bermudez 416041271"
 __credits__ = ["Luis Daniel Aragon Bermudez"]

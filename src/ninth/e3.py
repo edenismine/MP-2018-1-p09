@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib import gridspec
 
-from .exporter import export
+from .export import export
 
 __author__ = "Luis Daniel Aragon Bermudez 416041271"
 __credits__ = ["Luis Daniel Aragon Bermudez"]

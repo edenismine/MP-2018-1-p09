@@ -16,9 +16,6 @@ if __name__ == '__main__':
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     media_dir = os.path.dirname(os.path.abspath('../media/*'))
 
-    def rendered(f_name):
-        print(f"Saved {f_name} to {os.path.join(media_dir, f_name)}")
-
     # Render all figures
     ninth.render_fig1(media_dir, 'fig01.png', 6, 4)
     ninth.render_fig2(media_dir, 'fig02.png', 10, 6)
