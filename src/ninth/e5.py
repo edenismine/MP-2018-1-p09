@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Fourth Exercise: Polar coordinates"""
+"""Fifht Exercise: Heartbeat animation"""
 import os
 
 import matplotlib.pyplot as plt
